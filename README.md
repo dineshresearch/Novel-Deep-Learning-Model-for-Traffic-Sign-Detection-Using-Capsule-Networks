@@ -1,6 +1,20 @@
 # Novel-Deep-Learning-Model-for-Traffic-Sign-Detection-Using-Capsule-Networks
 capsule networks that achieves outstanding performance on the German traffic sign dataset
 
+paper link
+https://arxiv.org/abs/1107.2867
+
+you can cite this paper if you are using this code for your research
+BIBTEX
+------
+@article{1805.04424,
+Author = {Amara Dinesh Kumar},
+Title = {Novel Deep Learning Model for Traffic Sign Detection Using Capsule Networks},
+Year = {2018},
+Eprint = {arXiv:1805.04424},
+Howpublished = {International Journal of Pure and Applied Mathematics Volume 118
+  No. 20 2018, 4543-4548 ISSN: 1314-3395},
+}
 
 MIT License
 
