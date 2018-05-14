@@ -13,7 +13,7 @@ Year = {2018},\
 Eprint = {arXiv:1805.04424},\
 Howpublished = {International Journal of Pure and Applied Mathematics Volume 118\
   No. 20 2018, 4543-4548 ISSN: 1314-3395},\
-}\
+}
 
 MIT License
 
