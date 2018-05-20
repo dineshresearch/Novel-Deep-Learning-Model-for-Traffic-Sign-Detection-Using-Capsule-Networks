@@ -11,11 +11,11 @@ Convolutional neural networks are the most widely used deep learning algorithms 
 
 you can cite this paper if you are using this code for your research
 ------
-@article{kumar2018novel,
-  title={Novel Deep Learning Model for Traffic Sign Detection Using Capsule Networks},
-  author={Kumar, Amara Dinesh},
-  journal={arXiv preprint arXiv:1805.04424},
-  year={2018}
+@article{kumar2018novel, \
+  title={Novel Deep Learning Model for Traffic Sign Detection Using Capsule Networks}, \
+  author={Kumar, Amara Dinesh}, \
+  journal={arXiv preprint arXiv:1805.04424}, \
+  year={2018} \
 }
 
 MIT License
