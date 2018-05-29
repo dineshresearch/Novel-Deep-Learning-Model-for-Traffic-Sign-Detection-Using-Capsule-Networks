@@ -14,9 +14,9 @@ https://drive.google.com/open?id=1zzOP3Kg4SIOyYmh89yOF9PeEEpALxh_k
 
 steps to run
 ------------
-Install all the dependencies \
+1)Install all the dependencies \
 Tensorflow,Keras,Numpy,Pandas,Pickle,Matplotlib \
-run the ipython notebook file Traffic_Sign_Classifier-Copy1.ipynb using jupyter notebook \
+2)Run the ipython notebook file Traffic_Sign_Classifier-Copy1.ipynb using jupyter notebook 
 
 you can cite this paper if you are using this code for your research
 ------
